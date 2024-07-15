@@ -1,3 +1,3 @@
 import { sum } from "./test";
-console.log("hello world");
-console.log(sum(5, 10));
+console.log("hello woaaraaaasald!!");
+console.log(sum(5, 1540));
